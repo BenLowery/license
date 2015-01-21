@@ -1,26 +1,5 @@
 
-Navigation
 
-    About the OSI
-    The Open Source Definition
-    Open Source Licenses
-    Working Groups
-    FAQ
-    Trademark and Logo Usage
-    Open Standards
-    Open Source Education
-    Mailing lists
-    Getting Help
-    Donate to the OSI
-    OSI Individual Membership
-    OSI Store
-    OSI Affiliate Membership
-    Contact OSI
-    Terms of Service
-    OSI Corporate Support
-
-You are here
-Home
 Eclipse Public License -v 1.0
 [OSI Approved License]
 
